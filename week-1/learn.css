@@ -1,0 +1,138 @@
+.container{
+    display: flex;
+    position: relative;
+    bottom: 30px;
+}
+
+a{
+ text-decoration: none;
+ margin-left: 90px;
+ font-size: 24px;
+ color: white;
+}
+img{
+    width: 60px;
+}
+.b{
+    display: flex;
+    font-size: 22px;
+}
+.bb{
+    margin-left: 190px;
+    padding-top: 30px;
+
+}
+.dson{
+    color: white
+}
+.p1{
+font-size: 123px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: justify;
+margin-right: 50px;
+width: 800px;
+height: 600px;
+position: relative;
+margin-left: 50px;
+
+}
+
+.brr{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    width: 400px;
+    position: relative;
+    bottom: 80px;
+    margin-left: 50px;
+}
+.bold{
+    width: 800px;
+    height: 998px;
+    margin-left: 700px;
+    position: relative;
+    bottom: 1080px;
+
+}
+.fd{
+    color: black;
+    border: 2px solid white;
+}
+.fd:hover{
+    background-color: rgb(3, 1, 1);
+    color: white;
+
+
+    
+}
+.fd1{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+}
+
+.fd1:hover{
+    background-color: white;
+    color:black;
+}
+
+
+
+
+input{
+    width: 280px;
+    height: 40px;
+    margin: 20px;
+    position: relative;
+
+    bottom: 30px;
+    margin-left: 20px;
+
+}
+.inp{
+    margin-left: 50px;
+}
+
+
+.d1{
+    padding-bottom: 470px;
+}
+
+hr{
+    position: relative;
+    bottom: 36px;
+}
+
+#go{
+    position: relative;
+    bottom: 100px;
+}
+
+.feb{
+    color: white;
+    display: flex;
+    margin: 50px;
+}
+
+.ab{
+    font-size: 250px;
+  
+
+
+}
+.b12{
+    font-size: 250px;
+    
+}
+
+.a12{
+    font-size: 120px;
+    
+}
+
+.c{
+    font-size: 250px;
+    text-decoration: overline;
+}
+
+
+
